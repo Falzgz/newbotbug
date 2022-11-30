@@ -22,7 +22,7 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6289518022967','6282113034413']
+global.owner = ['6289518022967','6285739679186','6282113034413']
 global.premium = ['6289518022967']
 global.packname = 'FALZ4YOU Bot'
 global.author = 'WhatsApp Bot'
